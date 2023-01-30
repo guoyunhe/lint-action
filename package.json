@@ -1,6 +1,6 @@
 {
   "name": "@guoyunhe/lint-action",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Unified ESLint + Prettier action to compose lint and format commands",
   "keywords": [
     "eslint",
@@ -55,7 +55,8 @@
   "dependencies": {
     "eslint": "^8.33.0",
     "fast-glob": "^3.2.12",
-    "prettier": "^2.8.3"
+    "prettier": "^2.8.3",
+    "sort-package-json": "^1.57.0"
   },
   "devDependencies": {
     "@guoyunhe/node-scripts": "^1.0.0",
