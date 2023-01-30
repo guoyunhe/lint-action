@@ -2,8 +2,4 @@
 
 ## 1.0.0 - 2023-01-30
 
-- Added something
-- Changed something
-- Fixed something
-- Removed something
-- Deprecated something
+- Added `lint()` function, with `fix` and `cwd` options.
